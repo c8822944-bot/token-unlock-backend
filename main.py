@@ -1,4 +1,5 @@
 from fastapi import FastAPI
+# version 3.0 with logos and 24h change
 from fastapi.middleware.cors import CORSMiddleware
 import httpx
 
